@@ -1,7 +1,7 @@
 fastapi==0.110.0
 uvicorn[standard]==0.46.0
 python-multipart==0.0.31
-anyio==4.13.0
+anyio==4.14.2
 h11==0.16.0
 httptools==0.7.1
 websockets==16.0
