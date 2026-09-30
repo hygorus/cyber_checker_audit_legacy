@@ -6,7 +6,7 @@ h11==0.16.0
 httptools==0.7.1
 websockets==16.0
 cryptography==42.0.5
-PyJWT==2.10.1
+PyJWT==2.14.0
 slowapi==0.1.9
 zxcvbn==4.5.0
 email-validator>=2.0.0
